@@ -18,3 +18,4 @@ The app scans Twitter and analyses word segments across the platform to predict 
 
 `wget http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zipl`
 
+then ...  unzip  ` python classing.py - h` and rename it to SAD.csv
