@@ -1,5 +1,5 @@
 # twitter_trading_app
-Hi, stay tuned. 
-Currently, collating files. 
-Should be ready to upload pretty soon :)
-(probably 2 weeks)
+
+#This is an application I built in a team of 4 for a hackathon I attended at Macquaire back in April.
+
+#The app scans Twitter and analyses word segments across the platform to predict stock market changes in selected S&P500 companies.
