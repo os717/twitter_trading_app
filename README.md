@@ -2,7 +2,7 @@
 
 Hi , thanks for stopping by!
 
-This is an application we built at a fin-tech hackathon we attended at Macquaire back in April. 
+This is an application we built at a fin-tech hackathon we attended at Macquaire back in April - where we came second (yayy!!) 
 
 The app scans Twitter and analyses word segments across the platform to predict stock market changes in selected S&P500 companies.
 
