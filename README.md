@@ -8,6 +8,7 @@ The app scans Twitter and analyses word segments across the platform to predict 
 
 This is only an MVP so there may stil be a few small bugs, etc (which is amazing conisdering this was literally built on caffeine alone :p) 
 
+### A special thank you to https://github.com/ibzmo the other major code contributor to this app: Check out his github!! 
 
 # How to use:
 
