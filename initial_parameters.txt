@@ -8,7 +8,7 @@ Flask-Login==0.3.2
 functools32==3.2.3.post2
 itsdangerous==0.24
 Jinja2==2.8
-lxml==3.7.3
+lxml==4.6.2
 MarkupSafe==0.23
 matplotlib==2.0.0
 netaddr==0.7.18
