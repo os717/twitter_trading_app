@@ -13,7 +13,7 @@ MarkupSafe==0.23
 matplotlib==2.0.0
 netaddr==0.7.18
 networkx==1.11
-numpy==1.12.1
+numpy==1.21.0
 packaging==16.8
 praw==4.4.0
 prawcore==0.8.0
